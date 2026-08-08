@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Animated hero -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1e293b,100:334155&text=Durgesh%20Suthar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Senior%20React%20%2F%20Next.js%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%" />
+<!-- Animated hero banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f172a,45:312e81,75:1e293b,100:0891b2&text=Hi%2C%20I'm%20Durgesh%20Suthar&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Senior%20React%20%2F%20Next.js%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%" />
 
 <a href="https://github.com/durgeshsuthar0">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Building+fast%2C+scalable+and+beautiful+web+experiences;React+%7C+Next.js+%7C+TypeScript+%7C+Node.js;Frontend+architecture+%7C+Design+systems+%7C+DX;Turning+complex+product+requirements+into+clean+UI" alt="Typing animation" />
@@ -9,8 +9,12 @@
 
 <br />
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3500&pause=1200&color=A78BFA&center=true&vCenter=true&width=460&lines=%F0%9F%9F%A2+Open+to+full-time+%2F+freelance+opportunities" alt="Status" />
+
+<br /><br />
+
 <a href="https://github.com/durgeshsuthar0">
-  <img src="https://img.shields.io/github/followers/durgeshsuthar0?label=Followers&style=for-the-badge&logo=github&labelColor=0f172a" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/followers/durgeshsuthar0?label=Followers&style=for-the-badge&logo=github&labelColor=0f172a&color=8b5cf6" alt="GitHub followers" />
 </a>
 <a href="https://github.com/durgeshsuthar0?tab=repositories">
   <img src="https://img.shields.io/badge/Focus-Frontend%20Engineering-38BDF8?style=for-the-badge&labelColor=0f172a" alt="Frontend Engineering" />
@@ -18,10 +22,11 @@
 <a href="https://www.linkedin.com/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+<img src="https://komarev.com/ghpvc/?username=durgeshsuthar0&label=Profile%20Views&style=for-the-badge&color=0891b2&labelColor=0f172a" alt="Profile views" />
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0f172a,50:8b5cf6,100:0891b2&width=100%25" width="100%" />
 
 ## 👋 About me
 
@@ -47,7 +52,7 @@ I build **production-oriented web applications** with a strong focus on scalable
 
 My current sweet spot is **React + Next.js**, backed by practical Node.js/API experience.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0891b2,50:8b5cf6,100:0f172a&width=100%25" width="100%" />
 
 ## 🧰 Tech stack
 
@@ -72,7 +77,7 @@ My current sweet spot is **React + Next.js**, backed by practical Node.js/API ex
   <img src="https://img.shields.io/badge/Responsive%20UI-0F172A?style=for-the-badge&logo=css3&logoColor=38BDF8" alt="Responsive UI" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0f172a,50:8b5cf6,100:0891b2&width=100%25" width="100%" />
 
 ## 🏗️ What I build
 
@@ -86,28 +91,40 @@ My current sweet spot is **React + Next.js**, backed by practical Node.js/API ex
 | 🧠 Architecture | Maintainable structure that can scale with the product |
 | 🛠️ Developer Experience | Clear conventions, reusable utilities and automation |
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0891b2,50:8b5cf6,100:0f172a&width=100%25" width="100%" />
 
 ## 🚀 Featured engineering work
 
 > Replace the repository names below with your 3–5 strongest public projects.
 
-### 📸 Photographer Event Platform
+<details open>
+<summary><b>📸 Photographer Event Platform</b></summary>
+<br/>
+
 A full-stack event photography platform with event management, large-scale photo uploads, QR-based event access and face-recognition-powered photo discovery.
 
 **Stack:** `Next.js` `React` `Node.js` `Python` `Face Recognition` `REST APIs`
+</details>
 
-### 🧩 Enterprise Admin Dashboard
+<details>
+<summary><b>🧩 Enterprise Admin Dashboard</b></summary>
+<br/>
+
 A responsive administration system built around reusable data tables, dynamic forms, filtering, pagination, dialogs and API-driven modules.
 
 **Stack:** `React` `PrimeReact` `Node.js` `REST APIs`
+</details>
 
-### ⚡ Frontend Architecture Experiments
+<details>
+<summary><b>⚡ Frontend Architecture Experiments</b></summary>
+<br/>
+
 A collection of practical experiments around reusable React components, hooks, state management, responsive UI and modern Next.js patterns.
 
 **Stack:** `React` `Next.js` `TypeScript`
+</details>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0f172a,50:8b5cf6,100:0891b2&width=100%25" width="100%" />
 
 ## 📊 GitHub analytics
 
@@ -120,9 +137,38 @@ A collection of practical experiments around reusable React components, hooks, s
 
 <img src="./profile/streak.svg" height="170" alt="GitHub contribution streak" />
 
+<br /><br />
+
+<!-- Live-rendered animated area chart, draws in on load -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=durgeshsuthar0&theme=react-dark&hide_border=true&area=true&bg_color=0f172a&color=38bdf8&line=8b5cf6&point=ffffff" width="100%" alt="Contribution activity graph" />
+
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0891b2,50:8b5cf6,100:0f172a&width=100%25" width="100%" />
+
+## 🌆 3D contribution calendar
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="Animated 3D contribution calendar" />
+</picture>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0f172a,50:8b5cf6,100:0891b2&width=100%25" width="100%" />
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=durgeshsuthar0&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="GitHub trophies" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0891b2,50:8b5cf6,100:0f172a&width=100%25" width="100%" />
 
 ## 🐍 Contribution activity
 
@@ -132,7 +178,7 @@ A collection of practical experiments around reusable React components, hooks, s
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0f172a,50:8b5cf6,100:0891b2&width=100%25" width="100%" />
 
 ## 💡 Engineering principles
 
@@ -146,7 +192,7 @@ A collection of practical experiments around reusable React components, hooks, s
 07. Build for the product, not just the framework.
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0891b2,50:8b5cf6,100:0f172a&width=100%25" width="100%" />
 
 ## 📈 Currently improving
 
@@ -157,7 +203,7 @@ A collection of practical experiments around reusable React components, hooks, s
 - Better UI/UX engineering
 - AI-assisted development workflows
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0f172a,50:8b5cf6,100:0891b2&width=100%25" width="100%" />
 
 ## 🤝 Let's connect
 
@@ -178,6 +224,6 @@ A collection of practical experiments around reusable React components, hooks, s
 
 ### 💬 Open to building interesting products with great teams.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:334155,50:1e293b,100:0f172a" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0891b2,50:312e81,100:0f172a" width="100%" />
 
 </div>
